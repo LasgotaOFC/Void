@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 O **Void OS** é uma simulação de sistema operacional.  
-Esta é a **primeira versão**, portanto ainda não está finalizado!
+Estas são as **primeiras versões**, portanto ainda não está finalizado!
 
 ---
 
@@ -17,11 +17,6 @@ Esta é a **primeira versão**, portanto ainda não está finalizado!
    - **Usuário:** `void`  
    - **Senha:** `void`  
 2. Após o login, espere aparecer a opção de aplicativos e escolha o desejado.  
-
----
-
-## ⚠️ Atenção
-O **chatbot Órion** está **desativado temporariamente**, até a próxima atualização!  
 
 ---
 
